@@ -154,7 +154,7 @@ Folders:
 | Name      | Contribution |
 |-----------|--------------|
 | **Tilly**     | Arduino programming, sensor integration, documentation |
-| **Artemis**   | MQTT setup, CI/CD pipeline, Arduino programming |
+| **Artemis**   | MQTT setup, CI/CD pipeline, Arduino programming, sensor integration (humidity and temperature), documentation |
 | **Sanjana**   | Frontend development with Vue.js, data storage logic |
 | **Tyra**      | MySQL integration, data storage logic, frontend development focused on integration with the database|
 | **Giovanna**  | Project coordination, development with Vue.js, video editing |
@@ -166,4 +166,5 @@ Folders:
 
 
 ---
+
 
